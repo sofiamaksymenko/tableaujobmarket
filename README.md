@@ -1,4 +1,4 @@
-# 📊 Tableau-Focused Data Science Job Market Analysis (2017–2021)
+# 📊 Tableau-focused Job Market Analysis (2017–2021)
 
 🔗 **Interactive Dashboard**:  
 [View on Tableau Public](https://public.tableau.com/shared/RGZDTPKJY?:display_count=n&:origin=viz_share_link)
